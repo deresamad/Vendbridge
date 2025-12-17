@@ -3,6 +3,9 @@
 
 This project analyzes the market performance and technical health of VendBridge, a digital marketplace app, three months post-launch. Using Tableau, I developed an interactive dashboard to monitor user adoption, engagement, and stability to inform product strategy.
 
+![](Vendbridge_Dash1.png)
+![](Vendbridge_Dash2.png)
+
 ## 🎯  Business Problem
 
 After significant investment in marketing, NexaLink needed to answer:
