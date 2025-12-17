@@ -42,6 +42,8 @@ Platform Performance: Android is the leading platform for transactions with 271,
 
 Regional Leaders: The US dominates transaction volume, significantly outperforming EMEA, Canada, APAC, and LATAM.
 
+**Dataset and Visualizations:** [Access Here](https://public.tableau.com/views/Vendbridgeapp/OverviewDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## 🛠️ Tech Stack & Skills
 
