@@ -56,3 +56,5 @@ Technical Sprint: Prioritize fixing app crashes to ensure long-term user retenti
 Market Expansion: Localize successful US marketing and feature tactics for underperforming regions like APAC and LATAM.
 
 Device Focus: Ensure high performance on Android to protect the primary transaction stream while investigating growth opportunities for iOS.
+
+With users spending a high average of 100 minutes on the app, explore "in-app" nudge campaigns or loyalty rewards to convert this high dwell time into a higher frequency of transactions.
